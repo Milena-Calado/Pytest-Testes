@@ -6,9 +6,9 @@ Requer Python 3.7+ ou PyPy3.
 
 Nome do pacote PyPI : pytest
 
-Um exemplo básico: 
+# Um exemplo básico: 
 
-# content of test_sample.py
+content of test_sample.py
 def inc(x):
     return x + 1
 
