@@ -60,15 +60,6 @@ Bugs/Solicitações
 
 - Use o rastreador de problemas do GitHub para enviar bugs ou solicitar recursos: https://github.com/pytest-dev/pytest/issues
 
-Pytest
-
-- Open Collective (https://opencollective.com/) é uma plataforma de financiamento online para comunidades abertas e transparentes. Ele fornece ferramentas para arrecadar dinheiro e compartilhar suas finanças com total transparência. É a plataforma de escolha para indivíduos e empresas que desejam fazer doações únicas ou mensais diretamente para o projeto.
-
-
-Pytest para empresas 
-
-Os mantenedores do pytest e milhares de outros pacotes estão trabalhando com o Tidelift para fornecer suporte comercial e manutenção para as dependências de código aberto que você usa para construir seus aplicativos. Economize tempo, reduza riscos e melhore a integridade do código, pagando aos mantenedores as dependências exatas que você usa.
-
 Segurança
 
 Pytest nunca foi associado a uma vulnerabilidade de segurança, mas em qualquer caso, para relatar uma vulnerabilidade de segurança, use o contato de segurança do Tidelift . [A Tidelift coordenará a correção e divulgação.](https://tidelift.com/docs/security)
